@@ -18,4 +18,6 @@ echo "IDF_PATH=$HOME/esp32/esp-idf" >> $HOME/.bashrc
 echo "*************************************************************"
 echo " Job done! Now do a cd esp32/myapp and use make menuconfig   "
 echo " then compile with    make    and write with   make flash    "
+echo " See https://myesp32.blogspot.com and                        "
+echo " https://myesp8266.blogspot.com for more informations        "   
 echo "*************************************************************"
